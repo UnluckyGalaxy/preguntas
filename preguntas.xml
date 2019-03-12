@@ -1,4 +1,6 @@
 	<!--  Preguntas sobre Juego de Tronos  -->
+	<?xml version="1.0" encoding="UTF-8"?>
+ 	<!DOCTYPE questions>
 	<question id="jklm_001">
 	<type>radio</type>
 	<title>1.- ¿Cuál es el lema de la casa Lannister?</title>
